@@ -1,6 +1,6 @@
 //==========================================================
 //
-//     FILE : StepperMotorController.ino
+//     FILE : Firmware_SMC.ino
 //
 //  PROJECT : Stepper Motor Controller (Digital Only)
 //
